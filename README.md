@@ -7,7 +7,7 @@ Usted ha sido contratado para construir el prototipo de una aplicación que perm
 identificar y categorizar las fuentes hídricas, bosques y animales de la región.
 Además, debe crear una identidad visual propia para esta aplicación, respetando
 los colores institucionales de la Corporación Autónoma Regional del Alto
-Magdalena.
+Magdalena..
 Tareas a realizar:
 1. Crear un repositorio llamado moviles-cam-corte-1-codigo (donde "codigo"
 corresponde a su número de documento o código de estudiante).
